@@ -1,5 +1,5 @@
 body {
-    background:transparent url(/img/yama.gif) fixed repeat-x center bottom;
+    background:transparent url(/img/yama.png) fixed repeat-x center bottom;
 }
 
 div#main {
@@ -11,6 +11,10 @@ div#main {
     text-align:center;
     background:transparent;
 
+}
+
+div#main h1{
+    font-size: 300%;
 }
 
 div#main .form {
